@@ -1,1 +1,3 @@
 # 280-riverside
+Pulled, cleaned and analyzed data from [NYC Dept of Housing Preservation and Development via NYC housing data aggregator site Justfix.org]([url](https://whoownswhat.justfix.org/en/address/MANHATTAN/280/RIVERSIDE%20DRIVE)) and [311-complaints]([url](https://docs.google.com/spreadsheets/d/1zLiIs4w_Q9RxNrbfTR8hJB_MeA5AnT90BJTUqa3ZUUE/edit#gid=1454616539)) via NYC Open Data.
+Found property records via the city's [ACRIS property records system]([url](https://a836-acris.nyc.gov/DS/DocumentSearch/BBLResult)) and pulled court testimony via the [NYS E-filing system]([url](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9J9kf484iNGgKY916FwLnw==)). 
